@@ -1,5 +1,3 @@
-//Me guata el fornai
-
 import java.util.Scanner;
 
 public class PreSuFijos{
